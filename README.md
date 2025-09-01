@@ -3,7 +3,7 @@
 # 📘 Data Structures & Algorithms
 
 Welcome to my **DSA Practice Repository**!  
-This repo contains solutions, notes, and implementations of **common data structures and algorithms** in **C++** (and will expand to other languages later).
+This repo contains solutions, notes, and implementations of **common data structures and algorithms** in **JAVA**
 
 ---
 
