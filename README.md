@@ -2,7 +2,7 @@
 
 # 📘 Data Structures & Algorithms
 
-Welcome To My **DSA Practice Repository**!  
+Welcome to my **DSA Practice Repository**!  
 This repo contains solutions, notes, and implementations of **common data structures and algorithms** in **JAVA**
 
 ---
