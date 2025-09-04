@@ -40,4 +40,4 @@ DSA/
 - **Graphs** (BFS, DFS, Dijkstra, Topological Sort)
 - **Sorting Algorithms** (Quick Sort, Merge Sort, Heap Sort, etc.)
 - **Dynamic Programming** (Knapsack, LIS, Matrix Chain Multiplication, etc.)
-- **Greedy Algorithms**
+- **Greedy Algorithm**
