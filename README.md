@@ -1,6 +1,6 @@
 # Data-Structure-and-Algorithms-in-Java
 
-# 📘 Data Structures & Algorithms
+# 📘 Data Structure & Algorithms
 
 Welcome to my **DSA Practice Repository**!  
 This repo contains solutions, notes, and implementations of **common data structures and algorithms** in **JAVA**
