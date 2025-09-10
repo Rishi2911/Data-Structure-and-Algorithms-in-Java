@@ -35,7 +35,7 @@ DSA/
 
 - **Arrays & Strings**
 - **Linked List** (Singly, Doubly, Circular)
-- **Stack & Queue** (Array & Linked List implementation)
+- **Stack & Queue** (Array and Linked List implementation)
 - **Trees** (Binary Tree, BST, Traversals)
 - **Graphs** (BFS, DFS, Dijkstra, Topological Sort)
 - **Sorting Algorithms** (Quick Sort, Merge Sort, Heap Sort, etc.)
